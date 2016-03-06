@@ -1,0 +1,332 @@
+=== puma startup: 2016-02-27 12:17:58 +0530 ===
+=== puma startup: 2016-02-27 12:37:13 +0530 ===
+2016-02-27 13:09:50 +0530: Rack app error: #<RuntimeError: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml`>
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:534:in `validate_secret_key_config!'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:246:in `env_config'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/engine.rb:514:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:165:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/configuration.rb:221:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:561:in `handle_request'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:406:in `process_client'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:271:in `block in run'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `block in spawn_thread'
+2016-02-27 13:11:22 +0530: Rack app error: #<RuntimeError: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml`>
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:534:in `validate_secret_key_config!'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:246:in `env_config'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/engine.rb:514:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:165:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/configuration.rb:221:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:561:in `handle_request'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:406:in `process_client'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:271:in `block in run'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `block in spawn_thread'
+2016-02-27 13:31:32 +0530: Rack app error: #<RuntimeError: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml`>
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:534:in `validate_secret_key_config!'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:246:in `env_config'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/engine.rb:514:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:165:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/configuration.rb:221:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:561:in `handle_request'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:406:in `process_client'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:271:in `block in run'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `block in spawn_thread'
+=== puma startup: 2016-02-27 13:36:51 +0530 ===
+2016-02-27 13:37:13 +0530: Rack app error: #<RuntimeError: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml`>
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:534:in `validate_secret_key_config!'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:246:in `env_config'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/engine.rb:514:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:165:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/configuration.rb:221:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:561:in `handle_request'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:406:in `process_client'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:271:in `block in run'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `block in spawn_thread'
+2016-02-27 13:37:13 +0530: Rack app error: #<RuntimeError: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml`>
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:534:in `validate_secret_key_config!'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:246:in `env_config'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/engine.rb:514:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:165:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/configuration.rb:221:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:561:in `handle_request'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:406:in `process_client'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:271:in `block in run'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `block in spawn_thread'
+2016-02-27 13:37:29 +0530: Rack app error: #<RuntimeError: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml`>
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:534:in `validate_secret_key_config!'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:246:in `env_config'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/engine.rb:514:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:165:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/configuration.rb:221:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:561:in `handle_request'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:406:in `process_client'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:271:in `block in run'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `block in spawn_thread'
+2016-02-27 13:37:30 +0530: Rack app error: #<RuntimeError: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml`>
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:534:in `validate_secret_key_config!'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:246:in `env_config'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/engine.rb:514:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:165:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/configuration.rb:221:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:561:in `handle_request'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:406:in `process_client'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:271:in `block in run'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `block in spawn_thread'
+2016-02-27 13:37:30 +0530: Rack app error: #<RuntimeError: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml`>
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:534:in `validate_secret_key_config!'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:246:in `env_config'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/engine.rb:514:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:165:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/configuration.rb:221:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:561:in `handle_request'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:406:in `process_client'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:271:in `block in run'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `block in spawn_thread'
+2016-02-27 13:37:39 +0530: Rack app error: #<RuntimeError: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml`>
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:534:in `validate_secret_key_config!'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:246:in `env_config'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/engine.rb:514:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:165:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/configuration.rb:221:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:561:in `handle_request'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:406:in `process_client'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:271:in `block in run'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `block in spawn_thread'
+2016-02-27 13:37:46 +0530: Rack app error: #<RuntimeError: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml`>
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:534:in `validate_secret_key_config!'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:246:in `env_config'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/engine.rb:514:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:165:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/configuration.rb:221:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:561:in `handle_request'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:406:in `process_client'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:271:in `block in run'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `block in spawn_thread'
+=== puma startup: 2016-02-27 13:38:00 +0530 ===
+=== puma startup: 2016-02-27 13:42:57 +0530 ===
+2016-02-27 13:43:09 +0530: Rack app error: #<RuntimeError: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml`>
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:534:in `validate_secret_key_config!'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:246:in `env_config'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/engine.rb:514:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:165:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/configuration.rb:221:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:561:in `handle_request'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:406:in `process_client'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:271:in `block in run'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `block in spawn_thread'
+=== puma startup: 2016-02-27 14:01:14 +0530 ===
+=== puma startup: 2016-02-27 14:01:18 +0530 ===
+=== puma startup: 2016-02-27 14:01:47 +0530 ===
+2016-02-27 14:01:59 +0530: Rack app error: #<RuntimeError: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml`>
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:534:in `validate_secret_key_config!'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:246:in `env_config'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/engine.rb:514:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:165:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/configuration.rb:221:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:561:in `handle_request'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:406:in `process_client'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:271:in `block in run'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `block in spawn_thread'
+2016-02-27 14:01:59 +0530: Rack app error: #<RuntimeError: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml`>
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:534:in `validate_secret_key_config!'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:246:in `env_config'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/engine.rb:514:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:165:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/configuration.rb:221:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:561:in `handle_request'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:406:in `process_client'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:271:in `block in run'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `block in spawn_thread'
+=== puma startup: 2016-02-27 14:02:39 +0530 ===
+2016-02-27 14:02:46 +0530: Rack app error: #<RuntimeError: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml`>
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:534:in `validate_secret_key_config!'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:246:in `env_config'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/engine.rb:514:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:165:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/configuration.rb:221:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:561:in `handle_request'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:406:in `process_client'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:271:in `block in run'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `block in spawn_thread'
+2016-02-27 14:02:57 +0530: Rack app error: #<RuntimeError: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml`>
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:534:in `validate_secret_key_config!'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:246:in `env_config'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/engine.rb:514:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:165:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/configuration.rb:221:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:561:in `handle_request'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:406:in `process_client'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:271:in `block in run'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `block in spawn_thread'
+2016-02-27 14:02:57 +0530: Rack app error: #<RuntimeError: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml`>
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:534:in `validate_secret_key_config!'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:246:in `env_config'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/engine.rb:514:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:165:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/configuration.rb:221:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:561:in `handle_request'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:406:in `process_client'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:271:in `block in run'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `block in spawn_thread'
+=== puma startup: 2016-02-27 14:05:05 +0530 ===
+2016-02-27 14:05:15 +0530: Rack app error: #<RuntimeError: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml`>
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:534:in `validate_secret_key_config!'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:246:in `env_config'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/engine.rb:514:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:165:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/rack-1.6.4/lib/rack/content_length.rb:15:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/configuration.rb:221:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:561:in `handle_request'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:406:in `process_client'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:271:in `block in run'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `block in spawn_thread'
+2016-02-27 14:05:15 +0530: Rack app error: #<RuntimeError: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml`>
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:534:in `validate_secret_key_config!'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:246:in `env_config'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/engine.rb:514:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:165:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/rack-1.6.4/lib/rack/content_length.rb:15:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/configuration.rb:221:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:561:in `handle_request'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:406:in `process_client'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:271:in `block in run'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `block in spawn_thread'
+=== puma startup: 2016-02-27 14:05:48 +0530 ===
+=== puma startup: 2016-02-27 14:10:16 +0530 ===
+=== puma startup: 2016-02-27 14:11:37 +0530 ===
+2016-02-27 14:12:26 +0530: Rack app error: #<RuntimeError: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml`>
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:534:in `validate_secret_key_config!'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:246:in `env_config'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/engine.rb:514:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:165:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/configuration.rb:221:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:561:in `handle_request'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:406:in `process_client'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:271:in `block in run'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `block in spawn_thread'
+=== puma startup: 2016-02-27 14:18:00 +0530 ===
+=== puma startup: 2016-02-27 14:22:32 +0530 ===
+2016-02-27 14:22:37 +0530: Rack app error: #<RuntimeError: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml`>
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:534:in `validate_secret_key_config!'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:246:in `env_config'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/engine.rb:514:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/application.rb:165:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/rack-1.6.4/lib/rack/content_length.rb:15:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/configuration.rb:221:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:561:in `handle_request'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:406:in `process_client'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/server.rb:271:in `block in run'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `call'
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/thread_pool.rb:111:in `block in spawn_thread'
+=== puma startup: 2016-02-27 14:30:24 +0530 ===
+=== puma startup: 2016-02-27 14:48:01 +0530 ===
+=== puma startup: 2016-02-27 14:50:58 +0530 ===
+=== puma startup: 2016-02-27 15:00:28 +0530 ===
+=== puma startup: 2016-02-27 15:05:23 +0530 ===
+=== puma startup: 2016-02-27 15:07:24 +0530 ===
+=== puma startup: 2016-02-27 16:03:10 +0530 ===
+
+(eog:17604): Gdk-WARNING **: eog: Fatal IO error 11 (Resource temporarily unavailable) on X server :99.
+
+=== puma startup: 2016-02-27 16:06:08 +0530 ===
+
+(eog:18389): Gdk-WARNING **: eog: Fatal IO error 11 (Resource temporarily unavailable) on X server :99.
+
+=== puma startup: 2016-02-27 16:32:17 +0530 ===
+=== puma startup: 2016-02-27 16:37:17 +0530 ===
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/rack-1.6.4/lib/rack/server.rb:355:in `delete': No such file or directory @ unlink_internal - /home/prakash/rbra/Heroku/bot/tmp/pids/server.pid (Errno::ENOENT)
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/rack-1.6.4/lib/rack/server.rb:355:in `block in write_pid'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/cluster.rb:120:in `fork'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/cluster.rb:120:in `block in spawn_workers'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/cluster.rb:116:in `times'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/cluster.rb:116:in `spawn_workers'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/cluster.rb:415:in `run'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/launcher.rb:173:in `run'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/rack/handler/puma.rb:51:in `run'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/rack-1.6.4/lib/rack/server.rb:286:in `start'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/commands/server.rb:80:in `start'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/commands/commands_tasks.rb:80:in `block in server'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/commands/commands_tasks.rb:75:in `tap'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/commands/commands_tasks.rb:75:in `server'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/commands/commands_tasks.rb:39:in `run_command!'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/commands.rb:17:in `<top (required)>'
+	from /home/prakash/rbra/Heroku/bot/bin/rails:9:in `require'
+	from /home/prakash/rbra/Heroku/bot/bin/rails:9:in `<top (required)>'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/spring-1.6.3/lib/spring/client/rails.rb:28:in `load'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/spring-1.6.3/lib/spring/client/rails.rb:28:in `call'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/spring-1.6.3/lib/spring/client/command.rb:7:in `call'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/spring-1.6.3/lib/spring/client.rb:28:in `run'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/spring-1.6.3/bin/spring:49:in `<top (required)>'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/spring-1.6.3/lib/spring/binstub.rb:11:in `load'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/spring-1.6.3/lib/spring/binstub.rb:11:in `<top (required)>'
+	from /home/prakash/rbra/Heroku/bot/bin/spring:13:in `require'
+	from /home/prakash/rbra/Heroku/bot/bin/spring:13:in `<top (required)>'
+	from bin/rails:3:in `load'
+	from bin/rails:3:in `<main>'
+=== puma startup: 2016-02-27 17:13:52 +0530 ===
+=== puma startup: 2016-02-27 17:32:49 +0530 ===
+=== puma startup: 2016-02-27 20:04:23 +0530 ===
+=== puma startup: 2016-02-28 11:58:40 +0530 ===
+=== puma startup: 2016-02-28 16:06:07 +0530 ===
+/home/prakash/.rvm/gems/ruby-2.2.1/gems/rack-1.6.4/lib/rack/server.rb:355:in `delete': No such file or directory @ unlink_internal - /home/prakash/rbra/Heroku/bot/tmp/pids/server.pid (Errno::ENOENT)
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/rack-1.6.4/lib/rack/server.rb:355:in `block in write_pid'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/cluster.rb:120:in `fork'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/cluster.rb:120:in `block in spawn_workers'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/cluster.rb:116:in `times'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/cluster.rb:116:in `spawn_workers'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/cluster.rb:415:in `run'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/puma/launcher.rb:173:in `run'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/puma-3.0.2/lib/rack/handler/puma.rb:51:in `run'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/rack-1.6.4/lib/rack/server.rb:286:in `start'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/commands/server.rb:80:in `start'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/commands/commands_tasks.rb:80:in `block in server'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/commands/commands_tasks.rb:75:in `tap'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/commands/commands_tasks.rb:75:in `server'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/commands/commands_tasks.rb:39:in `run_command!'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/commands.rb:17:in `<top (required)>'
+	from /home/prakash/rbra/Heroku/bot/bin/rails:9:in `require'
+	from /home/prakash/rbra/Heroku/bot/bin/rails:9:in `<top (required)>'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/spring-1.6.3/lib/spring/client/rails.rb:28:in `load'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/spring-1.6.3/lib/spring/client/rails.rb:28:in `call'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/spring-1.6.3/lib/spring/client/command.rb:7:in `call'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/spring-1.6.3/lib/spring/client.rb:28:in `run'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/spring-1.6.3/bin/spring:49:in `<top (required)>'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/spring-1.6.3/lib/spring/binstub.rb:11:in `load'
+	from /home/prakash/.rvm/gems/ruby-2.2.1/gems/spring-1.6.3/lib/spring/binstub.rb:11:in `<top (required)>'
+	from /home/prakash/rbra/Heroku/bot/bin/spring:13:in `require'
+	from /home/prakash/rbra/Heroku/bot/bin/spring:13:in `<top (required)>'
+	from bin/rails:3:in `load'
+	from bin/rails:3:in `<main>'
+=== puma startup: 2016-03-01 22:53:47 +0530 ===
+=== puma startup: 2016-03-02 11:40:38 +0530 ===
+=== puma startup: 2016-03-02 13:36:51 +0530 ===
+=== puma startup: 2016-03-02 19:25:41 +0530 ===
+=== puma startup: 2016-03-02 21:38:20 +0530 ===
+=== puma startup: 2016-03-03 21:13:52 +0530 ===
+=== puma startup: 2016-03-04 12:14:32 +0530 ===
+=== puma startup: 2016-03-04 14:24:37 +0530 ===
+=== puma startup: 2016-03-04 17:25:09 +0530 ===
+=== puma startup: 2016-03-04 19:51:00 +0530 ===
+=== puma startup: 2016-03-05 09:07:53 +0530 ===
+=== puma startup: 2016-03-05 11:06:08 +0530 ===
+=== puma startup: 2016-03-05 20:45:04 +0530 ===
+=== puma startup: 2016-03-06 11:13:48 +0530 ===
+=== puma startup: 2016-03-06 11:19:19 +0530 ===

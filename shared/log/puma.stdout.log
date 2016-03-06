@@ -1,0 +1,675 @@
+=== puma startup: 2016-02-27 12:17:58 +0530 ===
+[7306] * Starting control server on unix:///tmp/puma-status-1456555678376-7306
+[7306] - Worker 0 (pid: 7377) booted, phase: 0
+[7306] - Worker 1 (pid: 7381) booted, phase: 0
+[7306] - Gracefully shutting down workers...
+[7306] === puma shutdown: 2016-02-27 12:18:28 +0530 ===
+[7306] - Goodbye!
+=== puma startup: 2016-02-27 12:37:13 +0530 ===
+[7913] * Starting control server on unix:///tmp/puma-status-1456556833825-7913
+[7913] - Worker 0 (pid: 7984) booted, phase: 0
+[7913] - Worker 1 (pid: 7988) booted, phase: 0
+=== puma startup: 2016-02-27 13:36:51 +0530 ===
+[10279] * Starting control server on unix:///tmp/puma-status-1456560411161-10279
+[10279] - Worker 0 (pid: 10285) booted, phase: 0
+[10279] - Worker 1 (pid: 10289) booted, phase: 0
+[10279] - Gracefully shutting down workers...
+[10279] === puma shutdown: 2016-02-27 13:37:53 +0530 ===
+[10279] - Goodbye!
+=== puma startup: 2016-02-27 13:38:00 +0530 ===
+[10358] * Starting control server on unix:///tmp/puma-status-1456560480844-10358
+[10358] - Worker 0 (pid: 10365) booted, phase: 0
+[10358] - Worker 1 (pid: 10369) booted, phase: 0
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-27 13:38:24 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/templates/rails/welcome/index.html.erb (1.6ms)
+Completed 200 OK in 35ms (Views: 24.1ms | ActiveRecord: 0.0ms)
+[10358] - Gracefully shutting down workers...
+[10358] === puma shutdown: 2016-02-27 13:42:50 +0530 ===
+[10358] - Goodbye!
+Exiting
+=== puma startup: 2016-02-27 13:42:57 +0530 ===
+[10652] * Starting control server on unix:///tmp/puma-status-1456560777511-10652
+[10652] - Worker 1 (pid: 10662) booted, phase: 0
+[10652] - Worker 0 (pid: 10658) booted, phase: 0
+[10652] - Gracefully shutting down workers...
+[10652] === puma shutdown: 2016-02-27 13:43:22 +0530 ===
+[10652] - Goodbye!
+[7913] - Gracefully shutting down workers...
+[10967] Early termination of worker
+[7913] === puma shutdown: 2016-02-27 14:01:14 +0530 ===
+[7913] - Goodbye!
+=== puma startup: 2016-02-27 14:01:14 +0530 ===
+[10978] * Starting control server on unix:///tmp/puma-status-1456561874809-10978
+[10978] - Worker 1 (pid: 11053) booted, phase: 0
+[10978] - Worker 0 (pid: 11049) booted, phase: 0
+[10978] - Gracefully shutting down workers...
+[10978] === puma shutdown: 2016-02-27 14:01:17 +0530 ===
+[10978] - Goodbye!
+=== puma startup: 2016-02-27 14:01:18 +0530 ===
+[11084] * Starting control server on unix:///tmp/puma-status-1456561878292-11084
+[11084] - Worker 0 (pid: 11155) booted, phase: 0
+[11084] - Worker 1 (pid: 11159) booted, phase: 0
+=== puma startup: 2016-02-27 14:01:47 +0530 ===
+[11214] * Starting control server on unix:///tmp/puma-status-1456561907266-11214
+[11214] - Worker 1 (pid: 11224) booted, phase: 0
+[11214] - Worker 0 (pid: 11220) booted, phase: 0
+[11214] - Gracefully shutting down workers...
+[11214] === puma shutdown: 2016-02-27 14:02:33 +0530 ===
+[11214] - Goodbye!
+=== puma startup: 2016-02-27 14:02:39 +0530 ===
+[11251] * Starting control server on unix:///tmp/puma-status-1456561959668-11251
+[11251] - Worker 1 (pid: 11261) booted, phase: 0
+[11251] - Worker 0 (pid: 11257) booted, phase: 0
+[11251] - Gracefully shutting down workers...
+[11251] === puma shutdown: 2016-02-27 14:04:58 +0530 ===
+[11251] - Goodbye!
+=== puma startup: 2016-02-27 14:05:05 +0530 ===
+[11395] * Starting control server on unix:///tmp/puma-status-1456562105840-11395
+[11395] - Worker 0 (pid: 11402) booted, phase: 0
+[11395] - Worker 1 (pid: 11406) booted, phase: 0
+[11395] - Gracefully shutting down workers...
+[11395] === puma shutdown: 2016-02-27 14:05:38 +0530 ===
+[11395] - Goodbye!
+Exiting
+=== puma startup: 2016-02-27 14:05:48 +0530 ===
+[11539] * Starting control server on unix:///tmp/puma-status-1456562148239-11539
+[11539] - Worker 1 (pid: 11550) booted, phase: 0
+[11539] - Worker 0 (pid: 11546) booted, phase: 0
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-27 14:05:55 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/templates/rails/welcome/index.html.erb (1.6ms)
+Completed 200 OK in 25ms (Views: 13.3ms | ActiveRecord: 0.0ms)
+[11539] - Gracefully shutting down workers...
+[11539] === puma shutdown: 2016-02-27 14:08:51 +0530 ===
+[11539] - Goodbye!
+Exiting
+[11084] - Gracefully shutting down workers...
+[11084] === puma shutdown: 2016-02-27 14:08:53 +0530 ===
+[11084] - Goodbye!
+=== puma startup: 2016-02-27 14:10:16 +0530 ===
+[11757] * Starting control server on unix:///tmp/puma-status-1456562416020-11757
+[11757] - Worker 1 (pid: 11767) booted, phase: 0
+[11757] - Worker 0 (pid: 11763) booted, phase: 0
+[11757] - Gracefully shutting down workers...
+[11757] === puma shutdown: 2016-02-27 14:10:59 +0530 ===
+[11757] - Goodbye!
+=== puma startup: 2016-02-27 14:11:37 +0530 ===
+[11803] * Starting control server on unix:///tmp/puma-status-1456562497316-11803
+[11803] - Worker 1 (pid: 11878) booted, phase: 0
+[11803] - Worker 0 (pid: 11874) booted, phase: 0
+[11803] - Gracefully shutting down workers...
+[11803] === puma shutdown: 2016-02-27 14:17:10 +0530 ===
+[11803] - Goodbye!
+=== puma startup: 2016-02-27 14:18:00 +0530 ===
+[12127] * Starting control server on unix:///tmp/puma-status-1456562880264-12127
+[12127] - Worker 1 (pid: 12202) booted, phase: 0
+[12127] - Worker 0 (pid: 12198) booted, phase: 0
+=== puma startup: 2016-02-27 14:22:32 +0530 ===
+[12713] * Starting control server on unix:///tmp/puma-status-1456563152997-12713
+[12713] - Worker 0 (pid: 12720) booted, phase: 0
+[12713] - Worker 1 (pid: 12724) booted, phase: 0
+[12713] - Gracefully shutting down workers...
+[12713] === puma shutdown: 2016-02-27 14:22:46 +0530 ===
+[12713] - Goodbye!
+Exiting
+[12127] - Gracefully shutting down workers...
+[12127] === puma shutdown: 2016-02-27 14:30:23 +0530 ===
+[12127] - Goodbye!
+=== puma startup: 2016-02-27 14:30:24 +0530 ===
+[13143] * Starting control server on unix:///tmp/puma-status-1456563624638-13143
+[13143] - Worker 0 (pid: 13215) booted, phase: 0
+[13143] - Worker 1 (pid: 13219) booted, phase: 0
+=== puma startup: 2016-02-27 14:48:01 +0530 ===
+[13594] * Starting control server on unix:///tmp/puma-status-1456564681196-13594
+[13594] - Worker 0 (pid: 13601) booted, phase: 0
+[13594] - Worker 1 (pid: 13605) booted, phase: 0
+browser open
+[13594] - Gracefully shutting down workers...
+[13594] === puma shutdown: 2016-02-27 14:50:25 +0530 ===
+[13594] - Goodbye!
+=== puma startup: 2016-02-27 14:50:58 +0530 ===
+[13868] * Starting control server on unix:///tmp/puma-status-1456564858562-13868
+[13868] - Worker 1 (pid: 13879) booted, phase: 0
+[13868] - Worker 0 (pid: 13875) booted, phase: 0
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-27 14:51:45 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/templates/rails/welcome/index.html.erb (2.9ms)
+Completed 200 OK in 21ms (Views: 11.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/gogo" for 127.0.0.1 at 2016-02-27 14:51:53 +0530
+Processing by BoboController#testron as HTML
+browser open
+reached webpage
+[13868] - Gracefully shutting down workers...
+Completed 500 Internal Server Error in 67499ms (ActiveRecord: 0.0ms)
+
+Errno::ECONNREFUSED (Connection refused - connect(2) for "127.0.0.1" port 7055):
+  app/controllers/bobo_controller.rb:13:in `block in testron'
+  app/controllers/bobo_controller.rb:13:in `testron'
+
+
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (5.0ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.7ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (26.2ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (22.3ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (42.0ms)
+[13868] === puma shutdown: 2016-02-27 14:53:01 +0530 ===
+[13868] - Goodbye!
+Exiting
+=== puma startup: 2016-02-27 15:00:28 +0530 ===
+[14268] * Starting control server on unix:///tmp/puma-status-1456565428369-14268
+[14268] - Worker 1 (pid: 14279) booted, phase: 0
+[14268] - Worker 0 (pid: 14275) booted, phase: 0
+
+
+Started GET "/gogo" for 127.0.0.1 at 2016-02-27 15:00:33 +0530
+Processing by BoboController#testron as HTML
+browser open
+[14268] - Gracefully shutting down workers...
+Completed 500 Internal Server Error in 278174ms (ActiveRecord: 0.0ms)
+
+Errno::ECONNREFUSED (Connection refused - connect(2) for "127.0.0.1" port 7055):
+  app/controllers/bobo_controller.rb:10:in `block in testron'
+  app/controllers/bobo_controller.rb:10:in `testron'
+
+
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.5ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.9ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (29.1ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.3ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (22.1ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (1.0ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (46.8ms)
+[14268] === puma shutdown: 2016-02-27 15:05:12 +0530 ===
+[14268] - Goodbye!
+Exiting
+=== puma startup: 2016-02-27 15:05:23 +0530 ===
+[14463] * Starting control server on unix:///tmp/puma-status-1456565723815-14463
+[14463] - Worker 1 (pid: 14474) booted, phase: 0
+[14463] - Worker 0 (pid: 14470) booted, phase: 0
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-27 15:05:37 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/templates/rails/welcome/index.html.erb (2.4ms)
+Completed 200 OK in 19ms (Views: 9.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/gogo" for 127.0.0.1 at 2016-02-27 15:05:42 +0530
+Processing by BoboController#testron as HTML
+browser open
+Completed 500 Internal Server Error in 64899ms (ActiveRecord: 0.0ms)
+
+Net::ReadTimeout (Net::ReadTimeout):
+  app/controllers/bobo_controller.rb:8:in `testron'
+
+
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.6ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.6ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.8ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (29.5ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.9ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (24.3ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (49.8ms)
+[14463] - Gracefully shutting down workers...
+[14463] === puma shutdown: 2016-02-27 15:07:15 +0530 ===
+[14463] - Goodbye!
+Exiting
+=== puma startup: 2016-02-27 15:07:24 +0530 ===
+[14651] * Starting control server on unix:///tmp/puma-status-1456565844176-14651
+[14651] - Worker 0 (pid: 14657) booted, phase: 0
+[14651] - Worker 1 (pid: 14661) booted, phase: 0
+browser open
+[14651] - Gracefully shutting down workers...
+[14651] === puma shutdown: 2016-02-27 16:03:05 +0530 ===
+[14651] - Goodbye!
+=== puma startup: 2016-02-27 16:03:10 +0530 ===
+[17444] * Starting control server on unix:///tmp/puma-status-1456569190130-17444
+[17444] - Worker 1 (pid: 17454) booted, phase: 0
+[17444] - Worker 0 (pid: 17450) booted, phase: 0
+browser open
+browser open
+[17444] - Worker 1 (pid: 17715) booted, phase: 0
+browser open
+[17444] ! Terminating timed out worker: 17450
+[17444] - Worker 0 (pid: 17827) booted, phase: 0
+[17444] - Worker 1 (pid: 17845) booted, phase: 0
+browser open
+[17444] - Gracefully shutting down workers...
+[17444] === puma shutdown: 2016-02-27 16:05:54 +0530 ===
+[17444] - Goodbye!
+=== puma startup: 2016-02-27 16:06:08 +0530 ===
+[17948] * Starting control server on unix:///tmp/puma-status-1456569368190-17948
+[17948] - Worker 0 (pid: 17956) booted, phase: 0
+[17948] - Worker 1 (pid: 17960) booted, phase: 0
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-27 16:06:17 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/templates/rails/welcome/index.html.erb (1.5ms)
+Completed 200 OK in 18ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-27 16:06:17 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/gogo" for 127.0.0.1 at 2016-02-27 16:06:23 +0530
+Processing by BoboController#testron as HTML
+
+
+Started GET "/gogo" for 127.0.0.1 at 2016-02-27 16:06:26 +0530
+Processing by BoboController#testron as HTML
+browser open
+browser open
+[17948] - Worker 1 (pid: 18407) booted, phase: 0
+
+
+Started GET "/gogo" for 127.0.0.1 at 2016-02-27 16:07:15 +0530
+Processing by BoboController#testron as HTML
+browser open
+[17948] ! Terminating timed out worker: 17956
+[17948] - Worker 0 (pid: 18514) booted, phase: 0
+[17948] - Worker 1 (pid: 18546) booted, phase: 0
+
+
+Started GET "/gogo" for 127.0.0.1 at 2016-02-27 16:08:06 +0530
+Processing by BoboController#testron as HTML
+browser open
+[17948] - Gracefully shutting down workers...
+Completed 500 Internal Server Error in 53129ms (ActiveRecord: 0.0ms)
+
+EOFError (end of file reached):
+  app/controllers/bobo_controller.rb:8:in `testron'
+
+
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (5.6ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.3ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (27.5ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (23.6ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (45.7ms)
+[17948] === puma shutdown: 2016-02-27 16:09:00 +0530 ===
+[17948] - Goodbye!
+Exiting
+=== puma startup: 2016-02-27 16:32:17 +0530 ===
+[19551] * Starting control server on unix:///tmp/puma-status-1456570937179-19551
+[19551] - Worker 1 (pid: 19562) booted, phase: 0
+[19551] - Worker 0 (pid: 19558) booted, phase: 0
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-27 16:32:24 +0530
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/railties-4.2.5/lib/rails/templates/rails/welcome/index.html.erb (1.8ms)
+Completed 200 OK in 25ms (Views: 13.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/gogo" for 127.0.0.1 at 2016-02-27 16:32:33 +0530
+Processing by BoboController#testron as HTML
+
+
+Started GET "/gogo" for 127.0.0.1 at 2016-02-27 16:32:35 +0530
+Processing by BoboController#testron as HTML
+browser open
+browser open
+reached webpage
+reached webpage
+waiting for side
+waiting for unread
+found unread
+#pin guindy
+http://www.getpincode.info/guindy
+200
+waiting for unread
+[13143] - Gracefully shutting down workers...
+[19991] Early termination of worker
+[13143] === puma shutdown: 2016-02-27 16:37:14 +0530 ===
+[13143] - Goodbye!
+=== puma startup: 2016-02-27 16:37:17 +0530 ===
+[20004] * Starting control server on unix:///tmp/puma-status-1456571237047-20004
+[20004] - Worker 1 (pid: 20079) booted, phase: 0
+[20004] - Worker 0 (pid: 20075) booted, phase: 0
+browser open
+reached webpage
+[19551] - Gracefully shutting down workers...
+Completed 500 Internal Server Error in 367018ms (ActiveRecord: 0.0ms)
+
+Errno::ECONNREFUSED (Connection refused - connect(2) for "127.0.0.1" port 7056):
+  app/controllers/bobo_controller.rb:13:in `block in testron'
+  app/controllers/bobo_controller.rb:13:in `testron'
+
+
+Completed 500 Internal Server Error in 365731ms (ActiveRecord: 0.0ms)
+
+Errno::ECONNREFUSED (Connection refused - connect(2) for "127.0.0.1" port 7057):
+  app/controllers/bobo_controller.rb:18:in `block in testron'
+  app/controllers/bobo_controller.rb:18:in `testron'
+
+
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (15.2ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (14.1ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (10.7ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (9.3ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (51.7ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (52.7ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (24.6ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (24.5ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (46.6ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (46.0ms)
+[19551] === puma shutdown: 2016-02-27 16:38:41 +0530 ===
+[19551] - Goodbye!
+Exiting
+browser open
+reached webpage
+waiting for side
+waiting for unread
+found unread
+Palaya soruu
+waiting for unread
+[20004] - Gracefully shutting down workers...
+[20785] Early termination of worker
+[20004] === puma shutdown: 2016-02-27 17:12:25 +0530 ===
+[20004] - Goodbye!
+=== puma startup: 2016-02-27 17:13:52 +0530 ===
+[1149] * Starting control server on unix:///tmp/puma-status-1456573430455-1149
+[1149] - Worker 1 (pid: 2200) booted, phase: 0
+[1149] - Worker 0 (pid: 2196) booted, phase: 0
+[1149] - Gracefully shutting down workers...
+[1149] === puma shutdown: 2016-02-27 17:18:10 +0530 ===
+[1149] - Goodbye!
+=== puma startup: 2016-02-27 17:32:49 +0530 ===
+[1139] * Starting control server on unix:///tmp/puma-status-1456574568803-1139
+[1139] - Worker 0 (pid: 1464) booted, phase: 0
+[1139] - Worker 1 (pid: 1468) booted, phase: 0
+[1139] - Gracefully shutting down workers...
+[5266] Early termination of worker
+[1139] === puma shutdown: 2016-02-27 19:23:36 +0530 ===
+[1139] - Goodbye!
+=== puma startup: 2016-02-27 20:04:23 +0530 ===
+[1131] * Starting control server on unix:///tmp/puma-status-1456583663262-1131
+[1131] - Worker 1 (pid: 1469) booted, phase: 0
+[1131] - Worker 0 (pid: 1465) booted, phase: 0
+[1131] - Gracefully shutting down workers...
+[1131] === puma shutdown: 2016-02-28 00:00:50 +0530 ===
+[1131] - Goodbye!
+=== puma startup: 2016-02-28 11:58:40 +0530 ===
+[1545] * Starting control server on unix:///tmp/puma-status-1456640920935-1545
+[1545] - Worker 1 (pid: 2262) booted, phase: 0
+[1545] - Worker 0 (pid: 2258) booted, phase: 0
+=== puma startup: 2016-02-28 16:06:07 +0530 ===
+[15029] * Starting control server on unix:///tmp/puma-status-1456655767911-15029
+[15029] - Worker 0 (pid: 15169) booted, phase: 0
+[15029] - Worker 1 (pid: 15173) booted, phase: 0
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-28 16:06:22 +0530
+Processing by BoboController#index as HTML
+  Rendered bobo/index.html.erb within layouts/application (8.9ms)
+Completed 200 OK in 781ms (Views: 753.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bobo.self-e5333162e08ff770cae4849ed59c7e14a06e4d03661aa93618298f3d87777ce7.css?body=1" for 127.0.0.1 at 2016-02-28 16:06:24 +0530
+
+
+Started GET "/assets/roros.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-02-28 16:06:24 +0530
+
+
+Started GET "/assets/bobo.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-02-28 16:06:24 +0530
+
+
+Started GET "/assets/roros.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-02-28 16:06:24 +0530
+
+
+Started GET "/assets/scaffolds.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-02-28 16:06:24 +0530
+
+
+Started GET "/gogo" for 127.0.0.1 at 2016-02-28 16:06:30 +0530
+Processing by BoboController#testron as HTML
+
+
+Started GET "/gogo" for 127.0.0.1 at 2016-02-28 16:06:40 +0530
+Processing by BoboController#testron as HTML
+browser open
+browser open
+reached webpage
+Completed 500 Internal Server Error in 60399ms (ActiveRecord: 0.0ms)
+
+Selenium::WebDriver::Error::NoSuchWindowError (Window not found. The browser window may have been closed.):
+  app/controllers/bobo_controller.rb:17:in `block in testron'
+  app/controllers/bobo_controller.rb:17:in `testron'
+
+
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (25.7ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (9.9ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (132.3ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.7ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.8ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (350.3ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (474.4ms)
+reached webpage
+waiting for side
+waiting for unread
+found unread
+Hi to all
+waiting for unread
+found unread
+Hi
+waiting for unread
+found unread
+#about
+endered ifcond
+Name: Foryu
+Completed 500 Internal Server Error in 171652ms (ActiveRecord: 0.0ms)
+
+NameError (undefined local variable or method `driver' for #<BoboController:0x000000056fec58>):
+  app/controllers/bobo_controller.rb:70:in `block in about'
+  app/controllers/bobo_controller.rb:66:in `each'
+  app/controllers/bobo_controller.rb:66:in `about'
+  app/controllers/bobo_controller.rb:33:in `testron'
+
+
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.0ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.7ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (63.1ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (84.9ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (114.4ms)
+
+
+Started GET "/gogo" for 127.0.0.1 at 2016-02-28 16:09:41 +0530
+Processing by BoboController#testron as HTML
+browser open
+Completed 500 Internal Server Error in 24503ms (ActiveRecord: 0.0ms)
+
+EOFError (end of file reached):
+  app/controllers/bobo_controller.rb:12:in `testron'
+
+
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (18.3ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (10.5ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (55.4ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.8ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (1.7ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (1.3ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (28.8ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.9ms)
+  Rendered /home/prakash/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (73.9ms)
+[15029] - Gracefully shutting down workers...
+[15029] === puma shutdown: 2016-02-28 16:10:16 +0530 ===
+[15029] - Goodbye!
+Exiting
+[1545] - Gracefully shutting down workers...
+=== puma startup: 2016-03-01 22:53:47 +0530 ===
+[4357] * Starting control server on unix:///tmp/puma-status-1456853027853-4357
+[4357] - Worker 1 (pid: 4432) booted, phase: 0
+[4357] - Worker 0 (pid: 4428) booted, phase: 0
+[4357] - Gracefully shutting down workers...
+[6312] Early termination of worker
+[4357] === puma shutdown: 2016-03-02 00:31:46 +0530 ===
+[4357] - Goodbye!
+=== puma startup: 2016-03-02 11:40:38 +0530 ===
+[1125] * Starting control server on unix:///tmp/puma-status-1456899038295-1125
+[1125] - Worker 0 (pid: 1460) booted, phase: 0
+[1125] - Worker 1 (pid: 1464) booted, phase: 0
+[1125] - Gracefully shutting down workers...
+[3398] Early termination of worker
+[3405] Early termination of worker
+[1125] === puma shutdown: 2016-03-02 11:50:32 +0530 ===
+[1125] - Goodbye!
+=== puma startup: 2016-03-02 13:36:51 +0530 ===
+[1114] * Starting control server on unix:///tmp/puma-status-1456906011280-1114
+[1114] - Worker 1 (pid: 1467) booted, phase: 0
+[1114] - Worker 0 (pid: 1463) booted, phase: 0
+[4969] Early termination of worker
+[1114] - Gracefully shutting down workers...
+[4957] Early termination of worker
+[1114] === puma shutdown: 2016-03-02 17:42:17 +0530 ===
+[1114] - Goodbye!
+=== puma startup: 2016-03-02 19:25:41 +0530 ===
+[1121] * Starting control server on unix:///tmp/puma-status-1456926941545-1121
+[1121] - Worker 0 (pid: 1475) booted, phase: 0
+[1121] - Worker 1 (pid: 1479) booted, phase: 0
+[1121] - Gracefully shutting down workers...
+[3656] Early termination of worker
+[1121] === puma shutdown: 2016-03-02 21:00:20 +0530 ===
+[1121] - Goodbye!
+=== puma startup: 2016-03-02 21:38:20 +0530 ===
+[1106] * Starting control server on unix:///tmp/puma-status-1456934900632-1106
+[1106] - Worker 0 (pid: 1444) booted, phase: 0
+[1106] - Worker 1 (pid: 1448) booted, phase: 0
+[1106] - Gracefully shutting down workers...
+=== puma startup: 2016-03-03 21:13:52 +0530 ===
+[1151] * Starting control server on unix:///tmp/puma-status-1457019832453-1151
+[1151] - Worker 0 (pid: 1592) booted, phase: 0
+[1151] - Worker 1 (pid: 1596) booted, phase: 0
+[1151] - Gracefully shutting down workers...
+[1151] === puma shutdown: 2016-03-04 00:40:12 +0530 ===
+[1151] - Goodbye!
+=== puma startup: 2016-03-04 12:14:32 +0530 ===
+[1116] * Starting control server on unix:///tmp/puma-status-1457073872795-1116
+[1116] - Worker 0 (pid: 1464) booted, phase: 0
+[1116] - Worker 1 (pid: 1468) booted, phase: 0
+[1116] - Gracefully shutting down workers...
+[3541] Early termination of worker
+[1116] === puma shutdown: 2016-03-04 14:14:13 +0530 ===
+[1116] - Goodbye!
+=== puma startup: 2016-03-04 14:24:37 +0530 ===
+[1087] * Starting control server on unix:///tmp/puma-status-1457081677438-1087
+[1087] - Worker 0 (pid: 1471) booted, phase: 0
+[1087] - Worker 1 (pid: 1475) booted, phase: 0
+[7477] Early termination of worker
+[1087] - Gracefully shutting down workers...
+[7470] Early termination of worker
+[1087] === puma shutdown: 2016-03-04 17:24:28 +0530 ===
+[1087] - Goodbye!
+=== puma startup: 2016-03-04 17:25:08 +0530 ===
+[1113] * Starting control server on unix:///tmp/puma-status-1457092508952-1113
+[1113] - Worker 0 (pid: 1457) booted, phase: 0
+[1113] - Worker 1 (pid: 1461) booted, phase: 0
+[1113] - Gracefully shutting down workers...
+[1113] === puma shutdown: 2016-03-04 17:51:04 +0530 ===
+[1113] - Goodbye!
+=== puma startup: 2016-03-04 19:51:00 +0530 ===
+[1079] * Starting control server on unix:///tmp/puma-status-1457101260641-1079
+[1079] - Worker 1 (pid: 1470) booted, phase: 0
+[1079] - Worker 0 (pid: 1467) booted, phase: 0
+[1079] - Gracefully shutting down workers...
+[3755] Early termination of worker
+[1079] === puma shutdown: 2016-03-04 22:23:33 +0530 ===
+[1079] - Goodbye!
+=== puma startup: 2016-03-05 09:07:53 +0530 ===
+[1137] * Starting control server on unix:///tmp/puma-status-1457149073488-1137
+[1137] - Worker 1 (pid: 1488) booted, phase: 0
+[1137] - Worker 0 (pid: 1484) booted, phase: 0
+[1137] - Gracefully shutting down workers...
+[1137] === puma shutdown: 2016-03-05 10:37:12 +0530 ===
+[1137] - Goodbye!
+=== puma startup: 2016-03-05 11:06:08 +0530 ===
+[1081] * Starting control server on unix:///tmp/puma-status-1457156168014-1081
+[1081] - Worker 1 (pid: 1479) booted, phase: 0
+[1081] - Worker 0 (pid: 1475) booted, phase: 0
+[1081] - Gracefully shutting down workers...
+[1081] === puma shutdown: 2016-03-05 12:12:15 +0530 ===
+[1081] - Goodbye!
+=== puma startup: 2016-03-05 20:45:04 +0530 ===
+[1076] * Starting control server on unix:///tmp/puma-status-1457190904448-1076
+[1076] - Worker 1 (pid: 1475) booted, phase: 0
+[1076] - Worker 0 (pid: 1471) booted, phase: 0
+[1076] - Gracefully shutting down workers...
+[4683] Early termination of worker
+[4690] Early termination of worker
+[1076] === puma shutdown: 2016-03-05 22:10:38 +0530 ===
+[1076] - Goodbye!
+=== puma startup: 2016-03-06 11:13:48 +0530 ===
+[1127] * Starting control server on unix:///tmp/puma-status-1457243028777-1127
+[1127] - Worker 1 (pid: 1477) booted, phase: 0
+[1127] - Worker 0 (pid: 1473) booted, phase: 0
+[1127] - Gracefully shutting down workers...
+[2960] Early termination of worker
+[1127] === puma shutdown: 2016-03-06 11:18:38 +0530 ===
+[1127] - Goodbye!
+=== puma startup: 2016-03-06 11:19:19 +0530 ===
+[1103] * Starting control server on unix:///tmp/puma-status-1457243359313-1103
+[1103] - Worker 0 (pid: 1445) booted, phase: 0
+[1103] - Worker 1 (pid: 1449) booted, phase: 0
